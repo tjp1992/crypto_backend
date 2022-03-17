@@ -35,7 +35,7 @@ git push -u origin master
 git push -u origin --tags
 ```
 
-Functionnal test with a script:
+Functional test with a script:
 
 ```bash
 cd
@@ -64,7 +64,7 @@ cd crypto_backend
 pip install -r requirements.txt
 make clean install test                # install and test
 ```
-Functionnal test with a script:
+Functional test with a script:
 
 ```bash
 cd
